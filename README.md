@@ -67,17 +67,6 @@ CSS — Stylish, responsive layouts
 
 JavaScript — Interactivity and logic
 
-🚀 Getting Started
-Clone this repository
 
-bash
-git clone https://github.com/your-username/your-repo-name.git
-Open any project file in your favorite browser:
-
-basketball-scoreboard.html
-
-todo.html
-
-login-page.html
 
 
